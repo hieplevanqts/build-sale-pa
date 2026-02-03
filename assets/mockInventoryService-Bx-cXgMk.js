@@ -1,0 +1,1 @@
+import{f as e,p as t}from"./index-CxwUwiYM.js";export{t as mockInventoryService};
